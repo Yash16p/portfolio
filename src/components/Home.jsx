@@ -1,6 +1,6 @@
 import React from "react";
 
-import pic from "../../public/photo.avif";
+import pic from "../../public/m.jpg";
 
 import { FaSquareFacebook } from "react-icons/fa6";
 import { FaLinkedin } from "react-icons/fa";
@@ -37,11 +37,7 @@ function Home() {
             </div>
             <br />
             <p className="text-sm md:text-md text-justify">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-              Quisquam, recusandae consequatur. Accusamus sint libero eligendi
-              laborum fuga repudiandae? Asperiores tempore eos animi dolores
-              corrupti! Sint quos, mollitia architecto aliquam nesciunt, optio
-              cum delectus sit voluptatum aut ratione quaerat veniam aperiam!
+            I am a web developer and a third-year student at ADGITM, where I am pursuing a B.Tech in Artificial Intelligence and Data Science (AIDS). With a strong foundation in both web development and AI, I am passionate about leveraging technology to create innovative solutions. My academic journey has equipped me with a diverse skill set, allowing me to effectively tackle complex problems and continuously learn and grow in my field.
             </p>
             <br />
             {/* social media icons */}
@@ -59,16 +55,7 @@ function Home() {
                       <FaLinkedin className="text-2xl cursor-pointer" />
                     </a>
                   </li>
-                  <li>
-                    <a href="https://www.youtube.com/" target="_blank">
-                      <IoLogoYoutube className="text-2xl cursor-pointer" />
-                    </a>
-                  </li>
-                  <li>
-                    <a href="https://t.me/" target="_blank">
-                      <FaTelegram className="text-2xl cursor-pointer" />
-                    </a>
-                  </li>
+                 
                 </ul>
               </div>
               <div className=" space-y-2">

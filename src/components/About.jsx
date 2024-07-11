@@ -9,18 +9,16 @@ function About() {
       <div>
         <h1 className="text-3xl font-bold mb-5">About</h1>
         <p>
-          Hello, I'm Akhil, a passionate Web developer with a keen eye for MERN
+          Hello, I'm Yash, a passionate Web developer with a keen eye for MERN
           Stack . With a background in IT, I strive to create impactful and
           visually stunning Software solutions that leave a lasting impression.
         </p>
         <br />
         <h1 className="text-green-600 font-semibold text-xl">
-          Education & Training
+          Education
         </h1>
         <span>
-          [Degree/Certification], [Institution], [Year] [Degree/Certification],
-          [Institution], [Year] [Relevant Course], [Platform/Institution],
-          [Year]
+          Pursuing B.Tech in Artificial Intelligence and Data Science from GGSIPU, NEW DELHI
         </span>
         <br />
         <br />
@@ -28,8 +26,7 @@ function About() {
           Skills & Expertise
         </h1>
         <span>
-          Proficient in [Programming Languages] Experienced with [Software
-          Tools/Technologies] Strong grasp of [Design Principles/Concepts]
+          Proficient in JAVASCRIPT,REACTJS,DSA , Strong grasp of UI/UX-FIGMA
           Excellent problem-solving skills Effective communicator and
           collaborator
         </span>
@@ -38,12 +35,11 @@ function About() {
         <h1 className="text-green-600 font-semibold text-xl">
           Professional Experience
         </h1>
+       
+
         <span>
-          [Job Title], [Company/Organization], [Dates] [Brief description of
-          responsibilities and achievements] [Job Title],
-          [Company/Organization], [Dates] [Brief description of responsibilities
-          and achievements] [Freelance/Contract Work], [Client/Organization],
-          [Dates] [Brief description of projects and contributions]
+         Currently working as a Web developer at  <h1 className="text-blue-600 font-semibold">KAPILASH SSS PVT. LTD</h1>
+         working on designs of courses of students from class 6 to 12
         </span>
         <br />
         <br />
@@ -51,8 +47,7 @@ function About() {
           Achievements & Awards
         </h1>
         <span>
-          [Award/Recognition], [Organization/Institution], [Year] [Achievement],
-          [Organization/Platform], [Year]
+          Worked as an Event head of Generative AI in ADGIPS
         </span>
         <br />
         <br />
@@ -61,7 +56,7 @@ function About() {
         </h1>
         <p>
           My mission is to leverage my skills and creativity to deliver
-          innovative [Your Field] solutions that exceed client expectations and
+          innovative solutions that exceed client expectations and
           contribute positively to the digital landscape. I am committed to
           continuous learning and growth, always seeking new challenges and
           opportunities to expand my horizons.

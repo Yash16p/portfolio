@@ -3,15 +3,19 @@ import html from "../../public/html.png";
 import css from "../../public/css.jpg";
 import java from "../../public/java.png";
 import javascript from "../../public/javascript.png";
-import oracle from "../../public/oracle.png";
-import spring from "../../public/spring.png";
-import springBoot from "../../public/springBoot.jpg";
+import reactjs from "../../public/reactjs.png";
+
+// import oracle from "../../public/oracle.png";
+// import spring from "../../public/spring.png";
+// import springBoot from "../../public/springBoot.jpg";
+
+
 function Experiance() {
   const cardItem = [
     {
       id: 1,
       logo: html,
-      name: "MongoDB",
+      name: "HTML",
     },
     {
       id: 2,
@@ -28,21 +32,21 @@ function Experiance() {
       logo: javascript,
       name: "JavaScript",
     },
-    {
-      id: 5,
-      logo: oracle,
-      name: "Oracle",
+    
+    {  id: 5,
+      logo: reactjs,
+      name: "Reactjs",
     },
-    {
-      id: 6,
-      logo: spring,
-      name: "Spring",
-    },
-    {
-      id: 7,
-      logo: springBoot,
-      name: "Spring Boot",
-    },
+    // {
+    //   id: 6,
+    //   logo: spring,
+    //   name: "Spring",
+    // },
+    // {
+    //   id: 7,
+    //   logo: springBoot,
+    //   name: "Spring Boot",
+    // },
   ];
   return (
     <div
@@ -50,7 +54,7 @@ function Experiance() {
       className="max-w-screen-2xl container mx-auto px-4 md:px-20 my-16"
     >
       <div>
-        <h1 className="text-3xl font-bold mb-5">Experiance</h1>
+        <h1 className="text-3xl font-bold mb-5">Experience</h1>
         <p className="  ">
           I've more than 2 years of experiance in below technologies.
         </p>
